@@ -1,0 +1,7 @@
+portfolio_consts.py
+portfolio_riskmodel.py
+portfolio.json
+error_log.txt
+/finya
+/__pycache__
+*.pyc
